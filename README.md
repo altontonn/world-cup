@@ -1,6 +1,6 @@
 # curriculum-databases-projects-template
 
-> The Celestial Bodies project aims to create a comprehensive database for celestial objects within the universe, including stars, galaxies, planets, and moons. By centralizing data on these celestial bodies, the project facilitates research, exploration, and education in the field of astronomy.
+> An analysis of FIFA World Cup matches data, providing insights into tournament history, team performances, and match statistics. This project utilizes SQL queries to explore match outcomes, team statistics, and tournament trends, offering valuable insights for football enthusiasts and analysts.
 
 
 ## Getting Started
