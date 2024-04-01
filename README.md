@@ -7,7 +7,7 @@
 
 This repository includes file with plain SQL that can be used to recreate a database:
 
-- Use [worldcup.sql](./project/freecodecamp/universe.sql) to create all tables and populate them
+- Use [worldcup.sql](./worldcup.sql) to create all tables and populate them
 
 ## Author
 
