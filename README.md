@@ -8,6 +8,8 @@
 This repository includes file with plain SQL that can be used to recreate a database:
 
 - Use [worldcup.sql](./worldcup.sql) to create all tables and populate them
+- Use [insert_data.sh](./insert_data.sh) to insert data to teams and games table
+- Use [queries.sh](./queries.sh) to query your database 
 
 ## Author
 
