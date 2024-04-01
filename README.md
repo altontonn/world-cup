@@ -23,7 +23,7 @@ This repository includes file with plain SQL that can be used to recreate a data
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/altontonn/celestial-bodies/issues).
+Feel free to check the [issues page](https://github.com/altontonn/world-cup/issues).
 
 ## Show your support
 
